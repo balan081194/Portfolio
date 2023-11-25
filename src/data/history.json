@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Full Stack Developer",
+      "organisation": "M/s. Ameso Tech (OPC) Pvt Ltd",
+      "startDate": "July, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked on Backend", "CURD Operation","Aggregation Pipeline","Handling data in MongoDB"],
+      "imageSrc": "history/Ameso.png"
+    },
+    {
+      "role": "Full Stack Developer",
+      "organisation": "Guvi Geek Network Pvt Ltd",
+      "startDate": "Jan, 2023",
+      "endDate": "June, 2023",
+      "experiences": ["Pizza Delivery Application", "Movie-Ticket Application","Reset Password","CURD Operation","Simple calculator App"],
+      "imageSrc": "history/guvi.png"
+    }
+    
+  ]

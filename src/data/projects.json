@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Pizza Delivery App",
+      "imageSrc": "projects/project.png",
+      "description": "The Pizza Delivery App developed using React for Front End,Node JS for Runtime environment, Express JS for Backend Routing, and Mongo DB for Database",
+      "skills": ["React", "Express", "Node","MongoDB"],
+      "demo": "https://imaginative-pasca-032e1e.netlify.app/",
+      "source": "https://github.com/balan081194/pizza-app-backend.git"
+    },
+    {
+      "title": "Movie Ticket App",
+      "imageSrc": "projects/project.png",
+      "description": " The Movie Ticket Application, and I have learn how to implement features such as user authentication, admin functionality, Bookings, Multi user roles.",
+      "skills": ["React", "Express", "Node","MongoDB"],
+      "demo": "https://64993382e8a7730ba7b0bc9c--effortless-malabi-1f3eca.netlify.app/",
+      "source": "https://github.com/balan081194/fullstack-movie-app.git"
+    },
+    {
+      "title": "Reset Password",
+      "imageSrc": "projects/project.png",
+      "description": " Use the ResetPassword method if the user has forgotten his password.The ResetPassword method requires a password reset token.",
+      "skills": ["React", "Express", "Node","MongoDB"],
+      "demo": "https://resetpassword-frontend-delta.vercel.app/",
+      "source": "https://github.com/balan081194/Resetpassword-backend.git"
+    }
+  ]
