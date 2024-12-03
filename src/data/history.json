@@ -1,5 +1,13 @@
 [
-    {
+  {
+    "role": "Full Stack Developer",
+    "organisation": "M/s. Afynd Pvt Ltd",
+    "startDate": "April, 2024",
+    "endDate": "October, 2024",
+    "experiences": ["Worked on Frontend and Backend","Deploy Nodejs App in Cpanel", "CURD Operation in API","Aggregation Pipeline","Handling data in MongoDB"],
+    "imageSrc": "history/Afnd.png"
+  },
+  {
       "role": "Full Stack Developer",
       "organisation": "M/s. Ameso Tech (OPC) Pvt Ltd",
       "startDate": "July, 2023",
